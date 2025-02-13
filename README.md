@@ -6,7 +6,7 @@ This project analyzes customer churn in the telecom industry. The goal is to und
 
 ## Data Description
 
-The dataset contains information about telecom customers, including their usage patterns, recharge history, and demographic details. The data spans several months (June to September 2014). Key variables include:
+The dataset contains information about telecom customers, including their usage patterns, recharge history, and demographic details. The data spans several months. Key variables include:
 
 *   **Usage data:** Call duration (incoming/outgoing, local/STD), data usage (2G/3G).
 *   **Recharge data:** Recharge amount, number of recharges, date of last recharge.
