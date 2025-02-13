@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes customer churn in the telecom industry. The goal is to understand the factors that contribute to churn and develop a predictive model to identify customers at high risk of leaving. This analysis is based on the "Telecom Churn Case Study" dataset.
+This project analyzes customer churn in the telecom industry. The goal is to understand the factors that contribute to churn and develop a predictive model to identify customers at high risk of leaving. This analysis is based on the "Telecom Churn Case Study" dataset. This project was completed as part of a case study for Post Graduate Diploma in Data Science (2020).
 
 ## Data Description
 
