@@ -42,9 +42,13 @@ The dataset contains information about telecom customers, including their usage 
 
 ## Usage
 
-1.  **Open the `Telecom_Churn_Case_Study_Notebook.ipynb` in Google Colab.**
-2.  **Run the cells in the notebook sequentially.**  Ensure you have the necessary libraries installed. Colab typically includes most common data science libraries, but you can install any missing ones using `pip install` within a Colab cell (e.g., `!pip install statsmodels`).
-3.  **Data Location:** Make sure the notebook can access the `Data-Dictionary-Telecom-Churn-Case-Study.xlsx` file. You might need to upload it to your Google Drive and adjust the file paths in the notebook accordingly.
+1.  **Obtain the Dataset:**
+    *   The complete dataset (`telecom_churn_data.csv`) is available within the `telecom_churn_data.zip` file in this repository.
+    *   Download `telecom_churn_data.zip` to your local machine or Google Drive.
+    *   Extract the contents of `telecom_churn_data.zip`.
+2.  **Open the `Telecom_Churn_Case_Study_Notebook.ipynb` in Google Colab.**
+3.  **Run the cells in the notebook sequentially.**  Ensure you have the necessary libraries installed. Colab typically includes most common data science libraries, but you can install any missing ones using `pip install` within a Colab cell (e.g., `!pip install statsmodels`).
+4.  **Data Location:** Make sure the notebook can access the `Data-Dictionary-Telecom-Churn-Case-Study.xlsx` file. You might need to upload it to your Google Drive and adjust the file paths in the notebook accordingly.
 
 ## Data Dictionary
 
