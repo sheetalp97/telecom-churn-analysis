@@ -31,7 +31,7 @@ The dataset contains information about telecom customers, including their usage 
 1.  **Clone the repository:**
 
     ```
-    git clone [repository URL]
+    git clone https://github.com/sheetalp97/telecom_churn_analysis
     cd telecom-churn-analysis
     ```
 
